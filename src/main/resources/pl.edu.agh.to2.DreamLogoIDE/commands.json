@@ -1,0 +1,101 @@
+[
+  {
+    "keywords": [
+      "fd",
+      "np"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.FdCommand",
+    "argsNumber": 1
+
+  },
+  {
+    "keywords": [
+      "rt",
+      "pw"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.RtCommand",
+    "argsNumber": 1
+  },
+  {
+    "keywords": [
+      "lt",
+      "lw"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.LtCommand",
+    "argsNumber": 1
+  },
+  {
+    "keywords": [
+      "bk",
+      "ws"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.BkCommand",
+    "argsNumber": 1
+  },
+  {
+    "keywords": [
+      "st",
+      "pż"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.StCommand",
+    "argsNumber": 0
+  },
+  {
+    "keywords": [
+      "ht",
+      "sż"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.HtCommand",
+    "argsNumber": 0
+  },
+  {
+    "keywords": [
+      "pu",
+      "pod"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.PuCommand",
+    "argsNumber": 0
+  },
+  {
+    "keywords": [
+      "pd",
+      "opu"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.PdCommand",
+    "argsNumber": 0
+  },
+  {
+    "keywords": [
+      "cs"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.CsCommand",
+    "argsNumber": 0
+  },
+  {
+    "keywords": [
+      "gb",
+      "wróć"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.GbCommand",
+    "argsNumber": 0
+  },
+  {
+    "keywords": [
+      "repeat",
+      "loop",
+      "powtórz"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.RepeatCommand",
+    "argsNumber": 1
+  },
+  {
+    "keywords": [
+      "to",
+      "oto"
+    ],
+    "className": "pl.edu.agh.to2.DreamLogoIDE.command.ProcedureDefinitionCommand",
+    "argsNumber": 1
+  }
+
+
+]
